@@ -22,7 +22,7 @@ $dbname = "stark32";
   <link href="bootstrap.min.css" rel="stylesheet">
 </head>
 <body class="container">
-  <h1>INDUSTRIAS STARK</h1>
+  <h1>STARK INDUSTRIES</h1>
 
   <h2>NAVES DISPONIBLES</h2>
 
