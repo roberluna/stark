@@ -24,7 +24,7 @@ $dbname = "stark32";
 <body class="container">
   <h1>STARK INDUSTRIES</h1>
 
-  <h2>NAVES DISPONIBLES</h2>
+  <h2>NAVES DISPONIBLES en la empresa</h2>
 
   <table class="table">
     <thead>
